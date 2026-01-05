@@ -1,3 +1,11 @@
+## 此仓库非官方仓库，包含自用修改：
+
+* 只保留Linux配置
+* 只保留五笔输入法和拼音反查功能
+* 可能会修改显示主题
+
+## 以下为原仓库内容
+
 ![rime_all](https://github.com/KyleBing/rime-wubi86-jidian/assets/12215982/710c7e80-1660-48f1-bcc5-157c6bd3f662)
 
 该库是 [Rime](https://rime.im/) 输入法一个 86 版极点五笔的输入配置方案，支持多平台（Windows、macOS、Linux、iOS、Android）
